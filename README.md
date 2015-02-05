@@ -3,9 +3,9 @@ HTML5 Audio Player
 
 ## TODO:
 
- # Fork this repository
- # Finish the work (see requirements below)
- # Push your code in and send me the link to your solution.
+1. Fork this repository
+2. Finish the work (see requirements below)
+3. Push your code in and send me the link to your solution.
 
 ## Requirements
 
