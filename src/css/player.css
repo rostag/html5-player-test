@@ -1,0 +1,80 @@
+/* Default Skin */
+body {
+	background: #eefaff;
+}
+audio {
+	width: 100%;
+}
+h3 {
+	margin: 0 1em 0.5em 0;
+	color: #777;
+	white-space: nowrap;
+}
+.station-links {
+	color: #065;
+	font-size: 1.2em;
+}
+.station-links li {
+	list-style: none;
+}
+.station-links h3 {
+	backgrounfd: #dfeeff;
+}
+.station-links a:hover {
+	background: #fc0;
+	padding-left: 1px;
+}
+.audio-group {
+	padding-top: 1em;
+}
+.top-row>div {
+	padding-top: 1em;
+}
+.power {
+	background: #cde;
+}
+.atmos {
+	background: #9ce;
+}
+.easy {
+	background: #ade;
+}
+.vintage {
+	background: #bdb;	
+}
+
+/* Dark */
+
+.dark {
+	background: #001;
+}
+.dark .row h2 {
+	white-space: nowrap;
+	font-size: 1.2em;
+}
+.dark .station-links {
+	color: #065;
+	font-size: 1.4em;
+}
+.dark .station-links li {
+	list-style: none;
+}
+.dark .audio-group {
+	background: #122;
+	border: 1px solid #031;
+	border-radius: 10px;
+}
+.dark audio.is-playing {
+	box-shadow: 0 0 20px 1px #0c6;
+	border-radius: 10px;
+}
+
+/* Tune theme switcher */
+.dark [data-role="theme-switcher"] button {
+	background: #036;
+	color: #779;
+}
+
+.dark [data-role="theme-switcher"] button.active {
+	background: #000;
+}
